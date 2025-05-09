@@ -53,5 +53,6 @@ This project is perfect for data enthusiasts, analysts, and Netflix lovers who w
 ## Dataset Source
 
 This project uses a public dataset available at https://drive.google.com/drive/u/0/mobile/folders/1D88GMYv8z_tzrbftrAhpPo-aWpbfHf6f?usp=sharing
+for tutorial video : https://www.youtube.com/watch?v=Dq2cXSOJRPw
 
 
