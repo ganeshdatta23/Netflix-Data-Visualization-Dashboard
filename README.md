@@ -30,9 +30,9 @@ This project is perfect for data enthusiasts, analysts, and Netflix lovers who w
   - Elegant red-and-black Netflix theme
   - Easy to navigate and explore
 
-## Screenshot
-![image](https://github.com/user-attachments/assets/81e22529-aa89-42fa-bd86-af171f77958c)
-
+## Screenshots:
+![image](https://github.com/user-attachments/assets/c53dfb8a-ecdc-4eb6-b682-b3c1a81618f7)
+![image](https://github.com/user-attachments/assets/ae51379d-8ae3-4e36-a23a-ee549e56b04c)
 
 
 > *A snapshot of the Netflix Dashboard built using Power BI.*
