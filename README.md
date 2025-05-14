@@ -31,7 +31,7 @@ This project is perfect for data enthusiasts, analysts, and Netflix lovers who w
   - Easy to navigate and explore
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/f4691030-adf4-43bf-880c-7a0cf996582f)
+![image](https://github.com/user-attachments/assets/81e22529-aa89-42fa-bd86-af171f77958c)
 
 
 
